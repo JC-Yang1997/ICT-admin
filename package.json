@@ -1,0 +1,26 @@
+{
+  "name": "ict-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JC-Yang1997/ICT-admin.git"
+  },
+  "author": "yangjinchun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JC-Yang1997/ICT-admin/issues"
+  },
+  "homepage": "https://github.com/JC-Yang1997/ICT-admin#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.6.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
